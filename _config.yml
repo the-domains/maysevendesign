@@ -1,0 +1,28 @@
+name: MaySevenDesign
+favicon: null
+layout_spectrum: 0.7126106598880142
+typography_spectrum: 0.4786206712014973
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7876487004105002
+  lightness: 0.7418870620895177
+  saturation: 0.6353166177868843
+  rhythmicContrast: 0.31678330688737333
+purpose: []
