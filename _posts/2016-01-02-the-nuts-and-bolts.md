@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T22:49:22.755Z'
-dateModified: '2016-01-02T22:48:36.289Z'
+datePublished: '2016-01-03T01:31:34.546Z'
+dateModified: '2016-01-03T01:18:53.803Z'
 title: 'The Nuts & Bolts'
 author: []
+sourcePath: _posts/2016-01-02-the-nuts-and-bolts.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-the-nuts-and-bolts.md
-published: true
 url: the-nuts-and-bolts/index.html
 _type: Article
 
