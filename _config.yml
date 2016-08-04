@@ -1,29 +1,41 @@
-name: MaySevenDesign
-favicon: null
-layout_spectrum: 0.98719
-typography_spectrum: 0.12104
 title: May Seven Design
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6353166177868843
+  brandStrength: 0.5
+  rhythmicContrast: 0.3167833068873733
   brandColors:
     - '#17201d'
     - '#e8dcda'
     - '#bec2c3'
     - '#8d9f9f'
     - '#687467'
-  brandStrength: 0.5
   lightness: 0.7418870620895177
-  saturation: 0.6353166177868843
-  rhythmicContrast: 0.31678330688737333
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: MaySevenDesign
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9249578
+layout_spectrum: 0.589376
